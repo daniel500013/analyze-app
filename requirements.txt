@@ -1,0 +1,5 @@
+Flask
+presidio-analyzer
+spacy
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+pl-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_lg-3.5.0/pl_core_news_lg-3.5.0-py3-none-any.whl
